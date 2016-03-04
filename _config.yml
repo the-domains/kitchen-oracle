@@ -1,0 +1,28 @@
+name: kitchen oracle
+favicon: null
+layout_spectrum: 0.7129879514686763
+typography_spectrum: 0.4768356934655458
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.16536631272174418
+  lightness: 0.7470470101106912
+  saturation: 0.7042726776562631
+  rhythmicContrast: 0.3231984411831945
+purpose: []
